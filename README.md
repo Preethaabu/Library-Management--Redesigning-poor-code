@@ -1,5 +1,7 @@
 Library Management System
+
 Overview
+
 This Library Management System is designed to manage books, users, and book checkouts within a library setting. It provides functionalities to add, list, search, update, and delete books and users, as well as to manage book checkouts and returns.
 
 Features
@@ -21,7 +23,9 @@ List Checked Out Books: Displays a list of books currently checked out, showing 
 4. Data Persistence
 All book, user, and checkout data is stored in separate JSON files (books.json, users.json, checkouts.json) located in the data directory.
 Data is loaded from these files when the system starts and saved back to them after any changes.
+
 How to Use
+
 Setup:
 
 Ensure Python is installed on your system.

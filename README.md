@@ -1,3 +1,4 @@
+
 Library Management System
 
 Overview
@@ -52,5 +53,6 @@ Logging:
 Logs of operations are stored in library.log to track important system activities.
 
 Dependencies
+
 Python 3.x
 json module (standard library)

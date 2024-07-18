@@ -30,22 +30,27 @@ How to Use
 Setup:
 
 Ensure Python is installed on your system.
+
 Install required dependencies (json module).
 
 Running the Application:
 
 Open a terminal or command prompt.
+
 Navigate to the directory containing main.py.
+
 Run python main.py.
 
 Menu Navigation:
 
 Use the numeric keys (1-4) to navigate through different menu options.
+
 Follow the prompts to perform actions such as adding books, registering users, checking out books, etc.
 
 Error Handling:
 
 The system provides basic error handling for incorrect inputs (e.g., non-numeric user IDs or ISBNs).
+
 It ensures data integrity by validating inputs before processing them.
 
 Logging:
@@ -55,4 +60,5 @@ Logs of operations are stored in library.log to track important system activitie
 Dependencies
 
 Python 3.x
+
 json module (standard library)
